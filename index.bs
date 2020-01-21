@@ -3921,7 +3921,7 @@ Registry Reports</h4>
 
 	[=Registries=] can be published either as a stand-alone [=technical report=] called a <dfn>registry report</dfn>,
 	or incorporated as part of a [=W3C Recommendation=] as a <dfn>registry section</dfn>.
-	In either case, the report must:
+	In either case, the [=technical report=] must:
 	<ul>
 		<li>
 			Clearly label the [=registry report=]/[=registry section|section=]
