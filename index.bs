@@ -4001,7 +4001,7 @@ Rules of a Registry</h4>
 <h4 id=reg-table-update>
 Updating Registry Tables</h4>
 
-	As long as they are in accordance with the [=rules of the registry=],
+	As long as (and only if) they are in accordance with the [=rules of the registry=],
 	changes to the contents of a [=registry table=]
 	(.e. [[#correction-classes|Class 5 changes]])
 	can be made by re-publishing the [=technical report=] that contains the affected table,
